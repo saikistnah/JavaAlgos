@@ -1,0 +1,2 @@
+# JavaAlgos
+Java practise algorithms
